@@ -1,4 +1,3 @@
-print("سلام! این ربات آهنگ است.")
 import telebot
 import requests
 
